@@ -1,7 +1,7 @@
 {
-  "name": "student-service",
+  "name": "teacher-service",
   "version": "1.0.0",
-  "description": "Student Microservice",
+  "description": "Teacher Microservice",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
